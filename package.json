@@ -2,6 +2,7 @@
   "name": "strategy-one",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://api.dustin.1strategy-sandbox.com",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
